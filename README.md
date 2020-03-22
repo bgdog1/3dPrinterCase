@@ -46,7 +46,7 @@ https://www.facebook.com/groups/3DPrinterModding/
 
 CASE COMPARABILITY CHART
 
-FORMAT
+---FORMAT---
 This Case Uses:
 * This Component
 
