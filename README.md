@@ -44,7 +44,7 @@ TFT35 Touchscreen: BTT TFT35 V2.0 Touch Screen Display
 More to come
 
 For the most recent updates on my projects, join my group:
-https://www.facebook.com/groups/3DPrinterModding/
+* https://www.facebook.com/groups/3DPrinterModding/
 
 CASE COMPARABILITY CHART
 
