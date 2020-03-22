@@ -163,7 +163,7 @@ NOTES: The mount for the BTT SKR V1.3 also fits the BTT SKR V1.4 Board.
 All Tips go back into the projects to be able to support more hardware.
 PAYPAL Link:
 
-paypal.me/bgdog1
+http://www.paypal.me/bgdog1
 
 Thank you!
 
