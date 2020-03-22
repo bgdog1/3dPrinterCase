@@ -83,18 +83,20 @@ Currently working on:
 * Mount for BTT TFT24 V1.1
 
 The following files have been contributed to this project by these people. Special Thanks!
---- Paul Lissett
 
-Lid Compact - Pi Screen STL for 4 inch screen
-Lid Compact - Pi Screen F3D for 4 inch screen
-Lid Compact - Pi Screen STEP for 4 inch screen
-Display Mount - TFT 3.5 V2.0 STL
-Display Mount - TFT 3.5 V2.0 F3D
-Display Mount - TFT 3.5 V2.0 STEP
+--- Paul Lissett
++ Lid Compact - Pi Screen STL for 4 inch screen
++ Lid Compact - Pi Screen F3D for 4 inch screen
++ Lid Compact - Pi Screen STEP for 4 inch screen
++ Display Mount - TFT 3.5 V2.0 STL
++ Display Mount - TFT 3.5 V2.0 F3D
++ Display Mount - TFT 3.5 V2.0 STEP
+
 VERSION HISTORY and FUTURE DIRECTION:
-V 2.0 - The first Uploads - removed
-V 2.1 - Raised the rear fan off the base for larger wire opening - REMOVED
-V 3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
+- V2.0 - The first Uploads
+- V2.1 - Raised the rear fan off the base for larger wire opening
+- V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
+- V3.1 - Possiblu Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
 3/21/2020
 + Updated Rear Fan Mount - 80mm
