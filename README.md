@@ -35,12 +35,13 @@ M3 and M4 Nuts
 M3x15 brass standoff - to mount the fan board on the RPi
 
 LCD Displays Currently Supported:
-*LCD12864 the Original Creality Display
-*TFT35 Touchscreen: BTT TFT35 V3.0 Touch Screen Display - SD Card and USB are not accessable
-*TFT35 Touchscreen: BTT TFT35 V3.0 Touch Screen Display - SD Card and USB are accessable
-*TFT35 Touchscreen: BTT TFT35 E3 V3.0 Touch Screen Display - SD Card not accessable
-*TFT35 Touchscreen: BTT TFT35 V2.0 Touch Screen Display
-*More to come
+
+* LCD12864 the Original Creality Display
+* TFT35 Touchscreen: BTT TFT35 V3.0 Touch Screen Display - SD Card and USB are not accessable
+* TFT35 Touchscreen: BTT TFT35 V3.0 Touch Screen Display - SD Card and USB are accessable
+* TFT35 Touchscreen: BTT TFT35 E3 V3.0 Touch Screen Display - SD Card not accessable
+* TFT35 Touchscreen: BTT TFT35 V2.0 Touch Screen Display
+* More to come
 
 For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
