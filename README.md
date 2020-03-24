@@ -101,6 +101,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 3/23/2020
 + Added Mainboard Mount - Duet WiFi
++ Added Main Body V3_0 Pro Compact wRPi
 + Updated Mainboard Mount - SKR Pro V1.1 
 + Updated ALL Display Mounts for better screw hole alignment
 
