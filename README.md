@@ -99,6 +99,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V3.1 - Possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+3/24/2020
++ Updeated CPU Mount - RPI 3 to work better with 2 piece case
++ Updeated CPU Mount - RPI 4 to work better with 2 piece case.
+
 3/23/2020
 + Added Mainboard Mount - Duet WiFi
 + Added Main Body V3_0 Pro Compact wRPi
