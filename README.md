@@ -100,8 +100,8 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.1 - Possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
 3/24/2020
-+ Updeated CPU Mount - RPI 3 to work better with 2 piece case
-+ Updeated CPU Mount - RPI 4 to work better with 2 piece case.
++ Updated CPU Mount - RPI 3 to work better with 2 piece case
++ Updated CPU Mount - RPI 4 to work better with 2 piece case
 
 3/23/2020
 + Added Mainboard Mount - Duet WiFi
