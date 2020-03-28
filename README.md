@@ -101,6 +101,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 3/28/2020
 + Updated Mainboard Mount - SKR Pro V1_1 for better fit
++ Added Rear Fan Mount - External 100x25mm Cover
 
 3/24/2020
 + Updated CPU Mount - RPI 3 to work better with 2 piece case
