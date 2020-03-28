@@ -99,6 +99,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V3.1 - Possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+3/28/2020
++ Updated Mainboard Mount - SKR Pro V1_1 for better fit
+
 3/24/2020
 + Updated CPU Mount - RPI 3 to work better with 2 piece case
 + Updated CPU Mount - RPI 4 to work better with 2 piece case
