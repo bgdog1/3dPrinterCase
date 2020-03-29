@@ -102,6 +102,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 3/29/2020
 + Added Rear Fan Mount - External Base 92mm
 + Added Rear Fan Mount - External Cover 92mm
++ Updated ALL 4020 Fan Mounts for consistency 
 
 3/28/2020
 + Updated Mainboard Mount - SKR Pro V1_1 for better fit
