@@ -101,17 +101,11 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 4/4/2020
 + Updated Main Case V3.0 - corrected an extrusion interfering with the lid fitting properly
-<<<<<<< HEAD
 + Update Main Body V3_0 Pro for mounting hole pattern to match RPi Mount
 + Added RPi 7in Screen Base
 + Added RPi 7in Screen Mount
 + Added RPi 7in Screen Lid - Standard
 + Added RPi 7in Screen Lid - Pro
-=======
-+ Added RPi 7in Screen Base
-+ Added RPi 7in Screen Mount
-+ Added RPi 7in Screen Lid - Standard
->>>>>>> 8e3666bf92f44f65fee104280a7851ed63678a15
 
 3/29/2020
 + Added Rear Fan Mount - External Base 92mm
