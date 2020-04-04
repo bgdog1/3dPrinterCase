@@ -30,7 +30,7 @@ Small Round Rubber Feet W/Screws - .250 H X .671 D
 Screws;
 M3 and M4 Misc Bolts
 M3 and M4 Nuts
-10x3/4 sheet metal screws (to attach the base)
+8x3/4 or 10x3/4 sheet metal screws (to attach the base)
 
 M3x15 brass standoff - to mount the fan board on the RPi
 
@@ -101,6 +101,11 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 4/4/2020
 + Updated Main Case V3.0 - corrected an extrusion interfering with the lid fitting properly
++ Update Main Body V3_0 Pro for mounting hole pattern to match RPi Mount
++ Added RPi 7in Screen Base
++ Added RPi 7in Screen Mount
++ Added RPi 7in Screen Lid - Standard
++ Added RPi 7in Screen Lid - Pro
 
 3/29/2020
 + Added Rear Fan Mount - External Base 92mm
