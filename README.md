@@ -13,7 +13,7 @@ I used the wiring harness out of the original control box, then and extension wi
 
 Parts: (If you are using this on a 24VDC system, then get the appropriate 24v parts, 12VDC then those appropriate parts.)
 
-1 - 80 or 100mm x any mm 12/24 vdc or 120 vac Fan - MAIN
+1 - 80 or 100mm x any mm 12/24 vdc or 120 VAC Fan - MAIN
 
 2 - 40mm x 40mm x 20mm 12/24 vdc Fans
 
@@ -102,7 +102,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 3/29/2020
 + Added Rear Fan Mount - External Base 92mm
 + Added Rear Fan Mount - External Cover 92mm
-+ Updated ALL 4020 Fan Mounts for consistency 
++ Updated ALL 4020 Fan Mounts for consistency
 
 3/28/2020
 + Updated Mainboard Mount - SKR Pro V1_1 for better fit
@@ -110,7 +110,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Rear Fan Mount - External Base 80mm
 + Added Rear Fan Mount - External Cover 80mm
 + Added Rear Fan Mount - External Base 90mm
-+ Added Rear Fan Mount - External Cover 90mm 
++ Added Rear Fan Mount - External Cover 90mm
 
 3/24/2020
 + Updated CPU Mount - RPI 3 to work better with 2 piece case
@@ -119,7 +119,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 3/23/2020
 + Added Mainboard Mount - Duet WiFi
 + Added Main Body V3_0 Pro Compact wRPi
-+ Updated Mainboard Mount - SKR Pro V1.1 
++ Updated Mainboard Mount - SKR Pro V1.1
 + Updated ALL Display Mounts for better screw hole alignment
 
 3/21/2020
@@ -193,4 +193,3 @@ PAYPAL Link:
 http://www.paypal.me/bgdog1
 
 Thank you!
-
