@@ -100,6 +100,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.1 - Possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
 4/4/2020
++ Added 3D Case Guide - Hopefully this will help with some questions.
 + Updated Main Case V3.0 - corrected an extrusion interfering with the lid fitting properly
 + Update Main Body V3_0 Pro for mounting hole pattern to match RPi Mount
 + Added RPi 7in Screen Base
