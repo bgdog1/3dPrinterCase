@@ -99,6 +99,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V3.1 - Possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+4/4/2020
++ Updated Main Case V3.0 - corrected an extrusion interfering with the lid fitting properly
+
 3/29/2020
 + Added Rear Fan Mount - External Base 92mm
 + Added Rear Fan Mount - External Cover 92mm
