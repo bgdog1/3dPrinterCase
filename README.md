@@ -9,14 +9,6 @@ I designed this Control Box out of the need for one. All the cases I found were 
 
 The component mounts are removable and changeable so it is very versatile. I currently have plans to put this on 4 printers so the design will change from time to time. Hopefully getting better each time, so add this to your watch list. I have included mounts for the SKR mainboard's, RP3 and 4, and displays that i have and can verify fit. If I don't have it listed yet then it isnt quite ready, Sorry.
 
-Parts: (If you are using this on a 24VDC system, then get the appropriate 24v parts, 12VDC then those appropriate parts.)
-
-1 - Buck Converter: HOMREE DC-DC Converter Step Down Module 12/24V to 5V Micro USB Output Buck Power Adapter (Micro USB) - power for RPi 2/3
-
-1 pkg terminal Blocks: - New for 10pcs Dual Row 4 Positions Screw Terminal Electric Barrier Strip Block 600V 15A
-
-1 pkg - Dust Covers: BQLZR 60mm Black Plastic Dustproof Case Fan Dust Filter Guard Grill Protector Cover PC Computer Pack of 5
-
 LCD Displays Currently Supported:
 
 * LCD12864 the Original Creality Display
@@ -49,6 +41,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.1 - Remove side exhaust port and possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
 4/5/2020
++ Added More content to the Case Guide
 + Updated Front vents with slats, gave them more supports
 
 4/4/2020
