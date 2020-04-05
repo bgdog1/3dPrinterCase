@@ -9,30 +9,13 @@ I designed this Control Box out of the need for one. All the cases I found were 
 
 The component mounts are removable and changeable so it is very versatile. I currently have plans to put this on 4 printers so the design will change from time to time. Hopefully getting better each time, so add this to your watch list. I have included mounts for the SKR mainboard's, RP3 and 4, and displays that i have and can verify fit. If I don't have it listed yet then it isnt quite ready, Sorry.
 
-I used the wiring harness out of the original control box, then and extension wire kit.
-
 Parts: (If you are using this on a 24VDC system, then get the appropriate 24v parts, 12VDC then those appropriate parts.)
-
-1 - 80 or 100mm x any mm 12/24 vdc or 120 VAC Fan - MAIN
-
-2 - 40mm x 40mm x 20mm 12/24 vdc Fans
-
-1 - 40mm x 40mm x 10mm 12/24 vdc Fan
 
 1 - Buck Converter: HOMREE DC-DC Converter Step Down Module 12/24V to 5V Micro USB Output Buck Power Adapter (Micro USB) - power for RPi 2/3
 
 1 pkg terminal Blocks: - New for 10pcs Dual Row 4 Positions Screw Terminal Electric Barrier Strip Block 600V 15A
 
 1 pkg - Dust Covers: BQLZR 60mm Black Plastic Dustproof Case Fan Dust Filter Guard Grill Protector Cover PC Computer Pack of 5
-
-Small Round Rubber Feet W/Screws - .250 H X .671 D
-
-Screws;
-M3 and M4 Misc Bolts
-M3 and M4 Nuts
-8x3/4 or 10x3/4 sheet metal screws (to attach the base)
-
-M3x15 brass standoff - to mount the fan board on the RPi
 
 LCD Displays Currently Supported:
 
@@ -45,39 +28,6 @@ LCD Displays Currently Supported:
 
 For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
-
-CASE COMPARABILITY CHART
-
----FORMAT---
-
-This Case Uses:
-* This Component
-
-Standard Case V3.0 and
-Standard Case 2 Piece V3.0 and
-Compact Pro wRPi or woRPi Cases:
-* Base Stand – Standard
-* Base Stand – Standard 2 piece
-* Base Stand – Standard Tall 2 piece
-* Lid - Standard
-
-Compact Case:
-* Base Stand – Compact
-* Lid – Compact
-* Power Panel Compact - All
-
-Pro Case v3.0:
-* Base Stand – Pro
-* Lid – Pro
-* Mainboard Mount – SKR Pro
-
-Universal Parts:
-* Mainboard Mounts – ALL Except Pro
-* Fan Mounts – ALL
-* Display Mounts – ALL
-* CPU Mounts ALL
-* Nameplates – ALL
-* Power Panel – All except Compacts with RPi
 
 Currently working on:
 * Version 3.0 of all the cases
