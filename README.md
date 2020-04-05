@@ -42,7 +42,19 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 4/5/2020
 + Added More content to the Case Guide
-+ Updated Front vents with slats, gave them more supports
++ Updated Front vents 
++ Added Side Cover - Blank
++ Added Side Cover - Vent
++ Added Front Vent -  Blank
++ Added Front Vent -  Blank.F3D
++ Added Front Vent -  Blank.STEP
++ Added Front Vent -  Bowtie
++ Added Front Vent -  BTT
++ Added Front Vent -  Ford
++ Added Front Vent -  GTR
++ Added Front Vent -  Hex GTR
++ Added Front Vent -  Hexagon
++ Added Front Vent -  Slats
 
 4/4/2020
 + Added 3D Case Guide - Hopefully this will help with some questions.
