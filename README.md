@@ -20,9 +20,8 @@ Parts: (If you are using this on a 24VDC system, then get the appropriate 24v pa
 LCD Displays Currently Supported:
 
 * LCD12864 the Original Creality Display
-* TFT35 Touchscreen: BTT TFT35 V3.0 Touch Screen Display - SD Card and USB are not accessable
-* TFT35 Touchscreen: BTT TFT35 V3.0 Touch Screen Display - SD Card and USB are accessable
-* TFT35 Touchscreen: BTT TFT35 E3 V3.0 Touch Screen Display - SD Card not accessable
+* TFT35 Touchscreen: BTT TFT35 V3.0 Touch Screen Display
+* TFT35 Touchscreen: BTT TFT35 E3 V3.0 Touch Screen Display
 * TFT35 Touchscreen: BTT TFT35 V2.0 Touch Screen Display
 * More to come
 
