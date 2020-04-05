@@ -97,7 +97,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V2.0 - The first Uploads
 - V2.1 - Raised the rear fan off the base for larger wire opening
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
-- V3.1 - Possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
+- V3.1 - Remove side exhaust port and possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
+
+4/5/2020
++ Updated Front vents with slats, gave them more supports
 
 4/4/2020
 + Added 3D Case Guide - Hopefully this will help with some questions.
