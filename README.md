@@ -102,11 +102,14 @@ VERSION HISTORY and FUTURE DIRECTION:
 4/4/2020
 + Added 3D Case Guide - Hopefully this will help with some questions.
 + Updated Main Case V3.0 - corrected an extrusion interfering with the lid fitting properly
-+ Update Main Body V3_0 Pro for mounting hole pattern to match RPi Mount
++ Update Main Body V3_0 Pro for mounting hole pattern to match RPi Screen Mount
 + Added RPi 7in Screen Base
 + Added RPi 7in Screen Mount
 + Added RPi 7in Screen Lid - Standard
 + Added RPi 7in Screen Lid - Pro
++ Added Front Vent - Bowtie
++ Added Front Vent - BTT
++ Added Front Vent - Ford
 
 3/29/2020
 + Added Rear Fan Mount - External Base 92mm
