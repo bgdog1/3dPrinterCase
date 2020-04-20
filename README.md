@@ -3,7 +3,7 @@ Stand Alone Main Control Case with Modular Mounts for Various Mainboards, Displa
 
 Summary
 
-!! NOTE - I am changing over to V3.0 Cases and Accessories. I will be uploading NEW files daily. Thanks for your patients during the transition!!
+!! NOTE - I am changing over to V4.0 Cases and Accessories. I will be uploading NEW files soon. Case V4.00 will eliminate the need for so many variations. There will only be 3 versions, Compact, Standard, and 2 piece Standard. Thanks for your patients during the transition!!
 
 I designed this Control Box out of the need for one. All the cases I found were specific to one machine and one mainboard. So if I wanted to change the mainboard or modify the machine design it quickly became obsolete. My idea behind this one is to print it once and be able to make changes as I need them. Change the screen, mainboard or RPi, just print a new mount, install it and continue. I don't have to reprint the entire thing.
 
@@ -21,8 +21,9 @@ For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
 Currently working on:
-* Version 3.0 of all the cases
+* Version 4.0 of all the cases
 * Mount for BTT TFT24 V1.1
++ Mount for RepRap LCD12864
 
 The following files have been contributed to this project by these people. Special Thanks!
 
