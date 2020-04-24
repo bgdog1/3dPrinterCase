@@ -41,6 +41,16 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V3.1 - Remove side exhaust port and possibly Have the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+4/22/2020
++ Added Main Body V4_0 Standard
++ Added Back Panel - Blank.stl
++ Added Back Panel - Blank.F3D
++ Added Back Panel - Blank.step
++ Added Base Stand Standard - Tall wSwitch_IEC
++ Added Base Stand Standard - Slim wSwitch_IEC
++ Added Front Vent - SD_Card
++ RENAMED Front Covers to Front Vents
+
 4/5/2020
 + Added More content to the Case Guide
 + Updated Front vents 
@@ -73,83 +83,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Rear Fan Mount - External Base 92mm
 + Added Rear Fan Mount - External Cover 92mm
 + Updated ALL 4020 Fan Mounts for consistency
-
-3/28/2020
-+ Updated Mainboard Mount - SKR Pro V1_1 for better fit
-+ Added Rear Fan Mount - External 100x25mm Cover
-+ Added Rear Fan Mount - External Base 80mm
-+ Added Rear Fan Mount - External Cover 80mm
-+ Added Rear Fan Mount - External Base 90mm
-+ Added Rear Fan Mount - External Cover 90mm
-
-3/24/2020
-+ Updated CPU Mount - RPI 3 to work better with 2 piece case
-+ Updated CPU Mount - RPI 4 to work better with 2 piece case
-
-3/23/2020
-+ Added Mainboard Mount - Duet WiFi
-+ Added Main Body V3_0 Pro Compact wRPi
-+ Updated Mainboard Mount - SKR Pro V1.1
-+ Updated ALL Display Mounts for better screw hole alignment
-
-3/21/2020
-+ Updated Rear Fan Mount - 80mm
-+ Added Tear Fan Mount Blank
-+ Added Tear Fan Mount Blank Flat
-+ Added Rear Fan Mount F3D file
-
-3/20/2020
-+ Added Main Body V3_0 Pro
-+ Added Lid - Pro
-+ Added Fan Mount - 4020mm DWT + Bucks + Acc
-
-3/13/2020
-+ Added Rear Fan Mount - 80mm
-
-3/12/2020
-+ Added Power Mount Panel - IEC Connector CR10
-
-3/10/2020
-+ Added Fan Mount 50mm - Dual 4020mm Dual Wire Tray_OLDV3_0
-+ Added Fan Mount 50mm - Triple 4020mm Dual Wire Tray_OLDV3_0
-
-3/8/2020
-+ Added Fan Mount - Dual 4020mm
-+ Added Fan Mount - Dual 40mm wSgl Cable Tray
-+ Added Fan Mount - Dual 4020mm Dual Wire Tray
-+ Added Fan Mount - Dual 4020mm Dual Tray BTT
-+ Added Fan Mount - Dual 4020mm Dual Tray BTT2
-+ Added Buck Converter Mount Single 17x48
-+ Added Buck Converter Mount Dbl17x48
-
-3/8/2020
-+ Added Base Stand V3,0 - Standard_Slim
-+ Added Base Stand V3.0 - Standard_Tall
-> Moved OLD versions of these files TO ARCHIVE FOLDER
-
-3/7/2020
-+ Added Base Stand Front V3_0 Standard_Tall_2pc
-+ Added Base Stand Rear V3_0 Standard_Tall_2pc
-+ Added Base Stand Front V3_0 Standard_Slim_2pc
-+ Added Base Stand Rear V3_0 Standard_Slim_2pc
-+ Added Terminal Cover
-+ Added Power Mount Panel Compact - BLANK.STL
-+ Added Power Mount Panel Compact - BLANK.F3D
-+ Added Power Mount Panel Compact - IEC Connector
-+ Added Buck Converter Mount Dbl17x48
-+ Added Buck Converter Mount Single 17x48
-
-3/6/2020
-+Added Main Body V3.0 Compact wRPi
-Removed ALL old Case files and accessories to upload new files daily!!
-
-3/4/2020
-+ Added Main Body Case Standard V3.0
-
-3/3/2020
-+ Added 2 Piece Main Case V3.0 Standard Front and Rear
-+ Added 2 Piece Base Stand Front and Rear
-+ Added 100mm x 92 mm Fan Dust Cover Adapter
 
 12/29/2019
 + Uploaded original files
