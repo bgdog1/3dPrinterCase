@@ -41,6 +41,14 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+4/26/2020
++ Added Mainboard Mount V4_0 - SKRv1.X_centered
++ Added Mainboard Mount V4_0 - SKRv1.X_offset
++ Added Mainboard Mount V4_0 - Creality115_MiniE3
++ Renamed Back Panel to Rear Panel
++ Added Rear Panel - CR10_100mm_RJ45_2USB
++ Added RPi Mount V4_0 - Horiz_Plain
+
 4/22/2020
 + Added Main Body V4_0 Standard
 + Added Back Panel - Blank.stl
