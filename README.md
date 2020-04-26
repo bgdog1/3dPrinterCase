@@ -47,7 +47,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Mainboard Mount V4_0 - Creality115_MiniE3
 + Renamed Back Panel to Rear Panel
 + Added Rear Panel - CR10_100mm_RJ45_2USB
-+ Added RPi Mount V4_0 - Horiz_Plain
++ Added RPi Mount V4_0 - Horiz_Plain.stl
++ Added RPi Mount V4_0 - Horiz_Plain.STEP
+- REMOVING F3D files to make space!!!
 
 4/22/2020
 + Added Main Body V4_0 Standard
