@@ -41,6 +41,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+5/23/2STL
++ Added Upper Level -  RPi Mount.stl
++ Added Upper Level -  RPi Mount.F3D
+
 4/26/2020
 + Added Mainboard Mount V4_0 - SKRv1.X_centered
 + Added Mainboard Mount V4_0 - SKRv1.X_offset
