@@ -41,6 +41,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+5/24/2020
++ Added Base Stand Front Standard - Slim 2pc_wSwitch
++ Added Base Stand Rear Standard - Slim 2pc_wSwitch
+
 5/23/2STL
 + Added Upper Level -  RPi Mount.stl
 + Added Upper Level -  RPi Mount.F3D
