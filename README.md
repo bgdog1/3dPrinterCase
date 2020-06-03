@@ -3,8 +3,6 @@ Stand Alone Main Control Case with Modular Mounts for Various Mainboards, Displa
 
 Summary
 
-!! NOTE - I am changing over to V4.0 Cases and Accessories. I will be uploading NEW files soon. Case V4.00 will eliminate the need for so many variations. There will only be 3 versions, Compact, Standard, and 2 piece Standard. Thanks for your patients during the transition!!
-
 I designed this Control Box out of the need for one. All the cases I found were specific to one machine and one mainboard. So if I wanted to change the mainboard or modify the machine design it quickly became obsolete. My idea behind this one is to print it once and be able to make changes as I need them. Change the screen, mainboard or RPi, just print a new mount, install it and continue. I don't have to reprint the entire thing.
 
 The component mounts are removable and changeable so it is very versatile. I currently have plans to put this on 4 printers so the design will change from time to time. Hopefully getting better each time, so add this to your watch list. I have included mounts for the SKR mainboard's, RP3 and 4, and displays that i have and can verify fit. If I don't have it listed yet then it isnt quite ready, Sorry.
