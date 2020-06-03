@@ -41,6 +41,16 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+6/3/2020
++ Added Cable Mgmt - Side Mount open 50mm
++ Added Cable Mgmt - Side Mount open 60mm
++ Added Cable Mgmt - Side Mount slim 40mm
++ Added Cable Mgmt - Side Mount slim 50mm
++ Added Cable Mgmt - Side Mount slim 60mm
++ Added Cable Mgmt - Side Mount wide 40mm
++ Added Cable Mgmt - Side Mount wide 50mm
++ Added Cable Mgmt - Side Mount wide 60mm
+
 6/2/2020
 + Added Mainboard Mount V4_0 - MKSGenL_centered
 + Added Mainboard Mount V4_0 - MKSGenL_offset
