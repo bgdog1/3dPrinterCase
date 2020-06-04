@@ -38,6 +38,12 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+6/4/2020
++ Added Upper Level Mount - SSR_1
++ Added Upper Level Mount - SSR_2
++ Added Press in Fastener for 2pc.stl
++ Added CPU Mount - Orange Pi Lite.stl
+
 6/3/2020
 + Added Cable Mgmt - Side Mount open 50mm
 + Added Cable Mgmt - Side Mount open 60mm
@@ -48,11 +54,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Cable Mgmt - Side Mount wide 50mm
 + Added Cable Mgmt - Side Mount wide 60mm
 
-6/4/2020
-+ Added Upper Level Mount - SSR_1
-+ Added Upper Level Mount - SSR_2
-+ Added Press in Fastener for 2pc.stl
- 
 6/2/2020
 + Added Mainboard Mount V4_0 - MKSGenL_centered
 + Added Mainboard Mount V4_0 - MKSGenL_offset
