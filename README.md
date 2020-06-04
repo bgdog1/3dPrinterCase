@@ -19,7 +19,6 @@ For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
 Currently working on:
-* Version 4.0 of all the cases
 * Mount for BTT TFT24 V1.1
 + Mount for RepRap LCD12864
 
