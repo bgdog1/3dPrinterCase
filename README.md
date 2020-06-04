@@ -50,7 +50,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 6/4/2020
 + Added Upper Level Mount - SSR_1
-+ Added Upper Level Mount - SSR_1
++ Added Upper Level Mount - SSR_2
  
 6/2/2020
 + Added Mainboard Mount V4_0 - MKSGenL_centered
