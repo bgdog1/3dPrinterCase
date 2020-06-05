@@ -19,7 +19,6 @@ For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
 Currently working on:
-* Version 4.0 of all the cases
 * Mount for BTT TFT24 V1.1
 + Mount for RepRap LCD12864
 
@@ -38,6 +37,12 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V2.1 - Raised the rear fan off the base for larger wire opening
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
+
+6/4/2020
++ Added Upper Level Mount - SSR_1
++ Added Upper Level Mount - SSR_2
++ Added Press in Fastener for 2pc.stl
++ Added CPU Mount - Orange Pi Lite.stl
 
 6/3/2020
 + Added Cable Mgmt - Side Mount open 50mm
