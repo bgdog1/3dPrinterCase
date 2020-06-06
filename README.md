@@ -40,6 +40,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 6/5/2020
 + Added Mainboard Mount V4_0 - SKR GTR V1_0
++ Added Mainboard Mount V4_0 - Duet_offset
 
 6/4/2020
 + Added Upper Level Mount - SSR_1
