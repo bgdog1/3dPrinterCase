@@ -38,6 +38,12 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+6/7/2020
++ Added Display Mount - TFT24V1_1 Main Body SD Access
++ Added Display Mount - TFT24V1_1 Spacer SD Access
++ Added Display Mount - TFT24V1_1 Cover SD Access
++ Added Display Mount - TFT24V1_1 Cover SD Access.F3D
+
 6/5/2020
 + Added Mainboard Mount V4_0 - SKR GTR V1_0
 + Added Mainboard Mount V4_0 - Duet_offset
