@@ -39,7 +39,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
 7/19/2020
-+Added Power Mount Panel - IEC Connector CR10.f3d
++ Added Power Mount Panel - IEC Connector CR10.f3d
 
 6/7/2020
 + Added Display Mount - TFT24V1_1 Main Body SD Access
