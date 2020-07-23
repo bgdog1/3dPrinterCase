@@ -38,6 +38,11 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+7/22/2020
++ Added Base Stand - MeanWell 600w SE600 PSU Full with Switch and IEC connector
++ Added Base Stand - MeanWell 600w SE600 PSU OptionA NO Switch but has IEC connector
++ Added Base Stand - MeanWell 600w SE600 PSU OptionB NO Switch and  NO IEC connector
+
 7/19/2020
 + Added Power Mount Panel - IEC Connector CR10.f3d
 
