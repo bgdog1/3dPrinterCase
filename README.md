@@ -19,8 +19,7 @@ For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
 Currently working on:
-* Mount for BTT TFT24 V1.1
-+ Mount for RepRap LCD12864
++ Case 3.5 Versions
 
 The following files have been contributed to this project by these people. Special Thanks!
 
@@ -45,6 +44,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Base Stand Front Standard - Tall 2pc_wSwitch
 + Added Base Stand Rear Standard - Tall 2pc_wSwitch
 + Added Base Stand Standard - Tall wSwitch_IEC
++ Added Main Body V3_5 Standard
 
 7/29/2020
 - Removed V3.0 Pro Version items
