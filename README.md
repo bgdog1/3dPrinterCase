@@ -40,7 +40,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
 8/9/2020
-! Notice - As I convert Case V3 files to Case V3.5, the V3 files will be removed.
++ ! Notice - As I convert Case V3 files to Case V3.5, the V3 files will be removed.
 + Uploaded Old Pro Cases to Case XL folder
 
 7/29/2020
