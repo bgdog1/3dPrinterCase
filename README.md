@@ -38,6 +38,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - HERE!!! Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
+7/29/2020
+- Removed V3.0 Pro Version items
+
 7/26/2020
 + Added Display Mount - RepRap LCD12864 SD Access Cover
 + Added Display Mount - RepRap12864 SD Access  Spacer
