@@ -19,8 +19,7 @@ For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
 Currently working on:
-* Mount for BTT TFT24 V1.1
-+ Mount for RepRap LCD12864
++ Case 3.5 Versions
 
 The following files have been contributed to this project by these people. Special Thanks!
 
@@ -36,7 +35,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V2.0 - The first Uploads
 - V2.1 - Raised the rear fan off the base for larger wire opening
 - V3.0 - Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
-- V3.5 - Reworked V3.0 Case to have Case V4.0 Rear Panel
+- V3.5 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 
 8/9/2020
@@ -45,6 +44,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Base Stand Front Standard - Tall 2pc_wSwitch
 + Added Base Stand Rear Standard - Tall 2pc_wSwitch
 + Added Base Stand Standard - Tall wSwitch_IEC
++ Added Main Body V3_5 Standard
 
 7/29/2020
 - Removed V3.0 Pro Version items
