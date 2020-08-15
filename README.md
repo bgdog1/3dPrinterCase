@@ -19,7 +19,7 @@ For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
 Currently working on:
-+ Case 3.5 Versions
++ Case 5.0 Versions
 
 The following files have been contributed to this project by these people. Special Thanks!
 
@@ -41,6 +41,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 8/15/2020
 + Added Main Body Front V5_0 Standard_2pc
 + Added Main Body Rear V5_0 Standard_2pc
++ Added Main Body V5_0 Compact
 
 8/9/2020
 + ! Notice - As I convert Case V3 files to Case V3.5, the V3 files will be removed.
@@ -48,7 +49,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Base Stand Front Standard - Tall 2pc_wSwitch
 + Added Base Stand Rear Standard - Tall 2pc_wSwitch
 + Added Base Stand Standard - Tall wSwitch_IEC
-+ Added Main Body V3_5 Standard
++ Added Main Body V5_0 Standard
 
 7/29/2020
 - Removed V3.0 Pro Version items
