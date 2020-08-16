@@ -42,6 +42,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Main Body Front V5_0 Standard_2pc
 + Added Main Body Rear V5_0 Standard_2pc
 + Added Main Body V5_0 Compact
++ Added Display Mount - TFT70V30 SD Access Base
++ Added Display Mount - TFT70V30 SD Access Cover
++ Added Display Mount - TFT70V30 SD Access Cover
 
 8/9/2020
 + ! Notice - As I convert Case V3 files to Case V3.5, the V3 files will be removed.
