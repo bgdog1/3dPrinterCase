@@ -39,7 +39,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
 8/19/2020
-+ Added Minboard Mount - SKR 1.4 wWIFI
++ Added Mainboard Mount - SKR 1.4 wWIFI
 
 8/15/2020
 + Added Main Body Front V5_0 Standard_2pc
