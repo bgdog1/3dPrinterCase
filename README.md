@@ -38,6 +38,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
+8/28/2020
++ Added Main Body V5_0 Pro Standard
+
 8/19/2020
 + Added Mainboard Mount - SKR 1.4 wWIFI
 
