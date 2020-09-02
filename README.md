@@ -40,6 +40,8 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 8/31/2020
 + Added Main Body V5_0 XL
++ Added Main Body Front Pro V5_0 - 2 pc Standard
++ Added Main Body Rear Pro V5_0 - 2 pc Standard
 
 8/29/2020
 + Added Main Body V5_0 XL Compact
