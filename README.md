@@ -38,6 +38,16 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
+
+9/3/2020
+ + Added Under Table Mainboard Case - Creality V2_X
+ + Added Under Table Mainboard Lid - Creality V2_X
+ + Added Under Table Mainboard Case - Main Body
+ + Added Under Table Mainboard Case - Lid
+ + Added Under Table Mainboard Case - Lid.F3D
+ + Added Under Table Mainboard Case - Back
+ + Added Under Table Mainboard Case - Back.F3D
+
 8/31/2020
 + Added Main Body V5_0 XL
 + Added Main Body Front Pro V5_0 - 2 pc Standard
