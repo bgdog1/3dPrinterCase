@@ -39,6 +39,13 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
 
+9/4/2020
++ Added Simple Case V2 - Main Body
++ Added Simple Case V2 - Back
++ Added Simple Case V2 - Back.F3D
++ Added Simple Case V2 - Lid
++ Added Simple Case V2 - Lid.F3D
+
 9/3/2020
  + Added Under Table Mainboard Case - Creality V2_X
  + Added Under Table Mainboard Lid - Creality V2_X
@@ -134,10 +141,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Upper Level -  RPi Mount.F3D
 
 4/26/2020
-+ Added Mainboard Mount V4_0 - SKRv1.X_centered
-+ Added Mainboard Mount V4_0 - SKRv1.X_offset
-+ Added Mainboard Mount V4_0 - Creality115_MiniE3
-+ Renamed Back Panel to Rear Panel
 + Added Rear Panel - CR10_100mm_RJ45_2USB
 + Added RPi Mount V4_0 - Horiz_Plain.stl
 + Added RPi Mount V4_0 - Horiz_Plain.STEP
@@ -180,11 +183,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Front Vent - Bowtie
 + Added Front Vent - BTT
 + Added Front Vent - Ford
-
-3/29/2020
-+ Added Rear Fan Mount - External Base 92mm
-+ Added Rear Fan Mount - External Cover 92mm
-+ Updated ALL 4020 Fan Mounts for consistency
 
 12/29/2019
 + Uploaded original files
