@@ -43,6 +43,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Display Mount XL - TFT70V30 SD Access Cover
 + Added Display Mount XL - Blank
 + Added Display Mount XL - Blank.F3D
++ Added Front Vent XL - Blank
++ Added Front Vent XL - Blank.F3D
++ Added Front Vent XL - BTT Slots
 
 9/4/2020
 + Added Simple Case V2 - Main Body
@@ -160,34 +163,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Base Stand Standard - Slim wSwitch_IEC
 + Added Front Vent - SD_Card
 + RENAMED Front Covers to Front Vents
-
-4/5/2020
-+ Added More content to the Case Guide
-+ Updated Front vents 
-+ Added Side Cover - Blank
-+ Added Side Cover - Vent
-+ Added Front Vent -  Blank
-+ Added Front Vent -  Blank.F3D
-+ Added Front Vent -  Blank.STEP
-+ Added Front Vent -  Bowtie
-+ Added Front Vent -  BTT
-+ Added Front Vent -  Ford
-+ Added Front Vent -  GTR
-+ Added Front Vent -  Hex GTR
-+ Added Front Vent -  Hexagon
-+ Added Front Vent -  Slats
-
-4/4/2020
-+ Added 3D Case Guide - Hopefully this will help with some questions.
-+ Updated Main Case V3.0 - corrected an extrusion interfering with the lid fitting properly
-+ Update Main Body V3_0 Pro for mounting hole pattern to match RPi Screen Mount
-+ Added RPi 7in Screen Base
-+ Added RPi 7in Screen Mount
-+ Added RPi 7in Screen Lid - Standard
-+ Added RPi 7in Screen Lid - Pro
-+ Added Front Vent - Bowtie
-+ Added Front Vent - BTT
-+ Added Front Vent - Ford
 
 12/29/2019
 + Uploaded original files
