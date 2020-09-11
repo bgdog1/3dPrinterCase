@@ -38,7 +38,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
-9/6/2020
+9/11/2020
++ Added Mainboard Mount Pro - Duet Wifi
+
+9/8/2020
 + Added Display Mount XL - TFT70V30 SD Access Base
 + Added Display Mount XL - TFT70V30 SD Access Cover
 + Added Display Mount XL - Blank
