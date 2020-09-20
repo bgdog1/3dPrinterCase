@@ -43,6 +43,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Base Front - Standard 2pc V2 wSwitch
 + Added Base Rear -Standard 2pc V2
 + Added Base Rear -Standard 2pc V2 wIEC Connector
++ Added Base - Standard V2
++ Added Base - Standard V2 wIEC Connector
++ Added Base - Standard V2 wIEC and Switch
 
 9/11/2020
 + Added Mainboard Mount Pro - Duet Wifi
