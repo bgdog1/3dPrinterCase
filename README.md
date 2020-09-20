@@ -38,6 +38,12 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
+9/20/2020 - Starting to rework the Bases for more options
++ Added Base Front - Standard 2pc V2
++ Added Base Front - Standard 2pc V2 wSwitch
++ Added Base Rear -Standard 2pc V2
++ Added Base Rear -Standard 2pc V2 wIEC Connector
+
 9/11/2020
 + Added Mainboard Mount Pro - Duet Wifi
 
