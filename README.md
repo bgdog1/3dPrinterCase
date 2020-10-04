@@ -41,6 +41,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 10/4/2020
 + Added XL RPi 7in Screen Mount Lid
 + Added Display Mount - TFT35E3V30 SD Access Cover V2
++ Added Display Mount - TFT35E3V30 SD Access Cover V3
 
 9/20/2020 - Starting to rework the Bases for more options
 + Added Base Front - Standard 2pc V2
