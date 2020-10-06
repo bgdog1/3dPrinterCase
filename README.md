@@ -38,6 +38,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
+10/6/2020
++ Added Rear Panel - 92mm Fan
+
 10/4/2020
 + Added XL RPi 7in Screen Mount Lid
 + Added Display Mount - TFT35E3V30 SD Access Cover V2
