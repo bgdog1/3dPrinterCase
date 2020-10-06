@@ -40,6 +40,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 10/6/2020
 + Added Rear Panel - 92mm Fan
++ Added Rear Fan External Cover 100x25mm
++ Added Rear Fan External Cover 92mm
++ Added Rear Fan External Cover 90mm
++ Added Rear Fan External Cover 80mm
 
 10/4/2020
 + Added XL RPi 7in Screen Mount Lid
