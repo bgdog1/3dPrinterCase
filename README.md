@@ -1,6 +1,8 @@
 # 3dPrinterCase
 Stand Alone Main Control Case with Modular Mounts for Various Mainboards, Display's, RPi's, Fans amd MORE!
 
+Read the Case Guide 
+
 Summary
 
 I designed this Control Box out of the need for one. All the cases I found were specific to one machine and one mainboard. So if I wanted to change the mainboard or modify the machine design it quickly became obsolete. My idea behind this one is to print it once and be able to make changes as I need them. Change the screen, mainboard or RPi, just print a new mount, install it and continue. I don't have to reprint the entire thing.
