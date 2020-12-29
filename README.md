@@ -25,20 +25,17 @@ Currently working on:
 
 The following files have been contributed to this project by these people. Special Thanks!
 
---- Paul Lissett
-+ Lid Compact - Pi Screen STL for 4 inch screen
-+ Lid Compact - Pi Screen F3D for 4 inch screen
-+ Lid Compact - Pi Screen STEP for 4 inch screen
-+ Display Mount - TFT 3.5 V2.0 STL
-+ Display Mount - TFT 3.5 V2.0 F3D
-+ Display Mount - TFT 3.5 V2.0 STEP
-
 VERSION HISTORY and FUTURE DIRECTION:
 - V2.0 - The first Uploads
 - V2.1 - Raised the rear fan off the base for larger wire opening
 - V3.0 - Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
+- The Mini Case ... COMING SOON!
+
+12/29/2020
++ Added Mainboard Mount - MKS GenL V1
++ Added Mainboard Mount - MKS SGenL V2
 
 10/6/2020
 + Added Rear Panel - 92mm Fan
@@ -113,7 +110,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Display Mount - TFT70V30 SD Access Cover
 
 8/9/2020
-+ ! Notice - As I convert Case V3 files to Case V3.5, the V3 files will be removed.
 + Uploaded Old Pro Cases to Case XL folder
 + Added Base Stand Front Standard - Tall 2pc_wSwitch
 + Added Base Stand Rear Standard - Tall 2pc_wSwitch
@@ -122,6 +118,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 
 7/29/2020
 - Removed V3.0 Pro Version items
+- Removed V4.0 Pro Version items
 
 7/26/2020
 + Added Display Mount - RepRap LCD12864 SD Access Cover
@@ -133,34 +130,17 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Base Stand - MeanWell 600w SE600 PSU OptionA NO Switch but has IEC connector
 + Added Base Stand - MeanWell 600w SE600 PSU OptionB NO Switch and  NO IEC connector
 
-7/19/2020
-+ Added Power Mount Panel - IEC Connector CR10.f3d
-
 6/7/2020
 + Added Display Mount - TFT24V1_1 Main Body SD Access
 + Added Display Mount - TFT24V1_1 Spacer SD Access
 + Added Display Mount - TFT24V1_1 Cover SD Access
 + Added Display Mount - TFT24V1_1 Cover SD Access.F3D
 
-6/5/2020
-+ Added Mainboard Mount V4_0 - SKR GTR V1_0
-+ Added Mainboard Mount V4_0 - Duet_offset
-
 6/4/2020
 + Added Upper Level Mount - SSR_1
 + Added Upper Level Mount - SSR_2
 + Added Press in Fastener for 2pc.stl
 + Added CPU Mount - Orange Pi Lite.stl
-
-6/3/2020
-+ Added Cable Mgmt - Side Mount open 50mm
-+ Added Cable Mgmt - Side Mount open 60mm
-+ Added Cable Mgmt - Side Mount slim 40mm
-+ Added Cable Mgmt - Side Mount slim 50mm
-+ Added Cable Mgmt - Side Mount slim 60mm
-+ Added Cable Mgmt - Side Mount wide 40mm
-+ Added Cable Mgmt - Side Mount wide 50mm
-+ Added Cable Mgmt - Side Mount wide 60mm
 
 6/2/2020
 + Added Mainboard Mount V4_0 - MKSGenL_centered
@@ -170,25 +150,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 + Added Base Stand Front Standard - Slim 2pc_wSwitch
 + Added Base Stand Rear Standard - Slim 2pc_wSwitch
 
-5/23/2STL
-+ Added Upper Level -  RPi Mount.stl
-+ Added Upper Level -  RPi Mount.F3D
-
-4/26/2020
-+ Added Rear Panel - CR10_100mm_RJ45_2USB
-+ Added RPi Mount V4_0 - Horiz_Plain.stl
-+ Added RPi Mount V4_0 - Horiz_Plain.STEP
-- REMOVING F3D files to make space!!!
-
-4/22/2020
-+ Added Main Body V4_0 Standard
-+ Added Back Panel - Blank.stl
-+ Added Back Panel - Blank.F3D
-+ Added Back Panel - Blank.step
-+ Added Base Stand Standard - Tall wSwitch_IEC
-+ Added Base Stand Standard - Slim wSwitch_IEC
-+ Added Front Vent - SD_Card
-+ RENAMED Front Covers to Front Vents
 
 12/29/2019
 + Uploaded original files
