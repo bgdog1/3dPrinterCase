@@ -36,6 +36,9 @@ VERSION HISTORY and FUTURE DIRECTION:
 12/29/2020
 + Added Mainboard Mount - MKS GenL V1
 + Added Mainboard Mount - MKS SGenL V2
++ Added Display Mount - TFT50V30 Flush Main  Body
++ Added Display Mount XL - TFT50V30 Flush Main  Body
++ Added Display Mount - TFT50V30 Cover
 
 10/6/2020
 + Added Rear Panel - 92mm Fan
