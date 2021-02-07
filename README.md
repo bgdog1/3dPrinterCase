@@ -31,7 +31,18 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
-- The Mini Case ... COMING SOON!
+
+2/7/2021
++ Added Mini Case V1.0
++ Added Mini Case - Base
++ Added Mini Case - Case Top Bar
++ Added Mini Case - Lid
++ Added Mini Case - BLANK Rear Panel.F3D
++ Added Mini Case - BLANK Rear Panel.STL
++ Added Display Mount Mini - Blank.F3D
++ Added Display Mount Mini - Blank.STL
++ Added Display Mount Mini - LCD12864 Stock.F3D
++ Added Display Mount Mini - LCD12864 Stock.STL
 
 12/29/2020
 + Added Mainboard Mount - MKS GenL V1
