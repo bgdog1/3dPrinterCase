@@ -35,7 +35,6 @@ VERSION HISTORY and FUTURE DIRECTION:
 2/7/2021
 + Added Mini Case V1.0
 + Added Mini Case - Base
-+ Added Mini Case - Case Top Bar
 + Added Mini Case - Lid
 + Added Mini Case - BLANK Rear Panel.F3D
 + Added Mini Case - BLANK Rear Panel.STL
