@@ -32,6 +32,12 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
+3/16/2021 _ Case XL Exclusive Parts
++ Added Front Vent XL - GTR Slots
++ Added Main Body V5_0 XL GTR
++ Added Mainboard Mount XL GTR - SKR GTR V1.0dy V5_0 XL GTR
++ Added XL RPi 7in Screen Mount Lid - BTT GTR
+
 2/7/2021
 + Added Mini Case V1.0
 + Added Mini Case - Base
