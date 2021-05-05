@@ -32,6 +32,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 
+5/5/2021
++ Added TFT 5in RPi Screen Mount
++ Added TFT 5in RPi Screen Cover
+
 3/16/2021 _ Case XL Exclusive Parts
 + Added Front Vent XL - GTR Slots
 + Added Main Body V5_0 XL GTR
