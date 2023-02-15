@@ -180,7 +180,7 @@ VERSION HISTORY and FUTURE DIRECTION:
 12/29/2019
 + Uploaded original files
 
-NOTES: The mount for the BTT SKR V1.3 also fits the BTT SKR V1.4 Board.
+NOTES: The mount for the BTT SKR V1.3 also fits the BTT SKR V1.4, V1.4 Turbo, and V3 Board.
 
 If you would like to support my work, you can use the link below.
 All Tips go back into the projects to be able to support more hardware.
