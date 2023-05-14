@@ -39,6 +39,7 @@ All PRINTERS
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 - V6.0 - Under construction. Will have larger bay for newer mainboards.
 
+
 ENDER 5 PLUS
 
 5/14/2023
