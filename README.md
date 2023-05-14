@@ -21,6 +21,7 @@ For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
 Currently working on:
++ Ender 5 Plus Base Case (bottom enclosure)
 + Case 5.0 Versions
 
 The following files have been contributed to this project by these people. Special Thanks!
@@ -31,6 +32,10 @@ VERSION HISTORY and FUTURE DIRECTION:
 - V3.0 - Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
+- V66.0 - Under construction. Will have larger bay for newer mainboards.
+
+5/13/2023
++ Added Ender 5 Plus - Base Case Component - Feet 
 
 3/12/2022
 + Added Mainboard Mount - SKR V2.0
