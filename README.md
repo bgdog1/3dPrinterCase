@@ -41,13 +41,14 @@ All PRINTERS
 
 
 ENDER 5 PLUS
-
 5/14/2023
 + Added E5P Single Control Box wFloor V2 
 
 5/13/2023
 + Added Ender 5 Plus - Base Case Component - Feet 
 
+
+ALL PRINTERS
 3/12/2022
 + Added Mainboard Mount - SKR V2.0
 
