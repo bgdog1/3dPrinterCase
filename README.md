@@ -20,6 +20,10 @@ LCD Displays Currently Supported:
 For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
 
+If you would like to support my work, you can use the link below. All Tips go back into the projects to be able to support more hardware. PAYPAL Link:
+
+http://www.paypal.me/bgdog1
+
 Currently working on:
 + Ender 5 Plus Base Case (bottom enclosure)
 + Case 6.0 Versions
