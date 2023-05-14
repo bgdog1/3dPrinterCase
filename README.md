@@ -43,7 +43,11 @@ All PRINTERS
 ENDER 5 PLUS
 
 5/14/2023
-+ Added E5P Single Control Box wFloor V2 
++ Added E5P Single Control Box wFloor V2
++ Added E5Plus - Center Piece - Klipper Logo
++ Added E5Plus - Center Piece - Marlin Logo
++ Added E5Plus - Center Piece - RPi Logo
++ Added E5Plus - Center Piece - No Logo
 
 5/13/2023
 + Added Ender 5 Plus - Base Case Component - Feet 
