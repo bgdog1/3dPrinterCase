@@ -31,12 +31,16 @@ Currently working on:
 The following files have been contributed to this project by these people. Special Thanks!
 
 VERSION HISTORY and FUTURE DIRECTION:
+All PRINTERS
 - V2.0 - The first Uploads
 - V2.1 - Raised the rear fan off the base for larger wire opening
 - V3.0 - Customizable EVERYTHING so you can customize the set up even more. Also the Creality boards will fit in this case!!!
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 - V6.0 - Under construction. Will have larger bay for newer mainboards.
+ENDER 5 pLUS
+5/14/2023
++ Added E5P Single Control Box wFloor V2 
 
 5/13/2023
 + Added Ender 5 Plus - Base Case Component - Feet 
