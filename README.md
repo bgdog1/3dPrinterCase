@@ -26,7 +26,7 @@ http://www.paypal.me/bgdog1
 
 Currently working on:
 + Ender 5 Plus Base Case (bottom enclosure)
-+ Case 6.0 Versions
++ Case 6.0 Versions ALL Versions
 
 The following files have been contributed to this project by these people. Special Thanks!
 
