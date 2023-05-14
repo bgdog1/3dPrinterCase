@@ -38,7 +38,9 @@ All PRINTERS
 - V4.0 - All wiring is now internal and the entire REAR Panel print separate to be able to custmize it completely to the users needs!
 - V5.0 - Reworked V3.0 Case to have Case V4.0 Rear Panel and Upper Deck
 - V6.0 - Under construction. Will have larger bay for newer mainboards.
-ENDER 5 pLUS
+
+ENDER 5 PLUS
+
 5/14/2023
 + Added E5P Single Control Box wFloor V2 
 
