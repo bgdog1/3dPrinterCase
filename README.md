@@ -42,6 +42,21 @@ All PRINTERS
 
 ENDER 5 PLUS
 
+5/16/2023
++ E5Plus - Front Skirt 6 Sided 10mm wUSB Switch
++ E5Plus - Front Skirt 6 Sided 10mm
++ E5Plus - Front Skirt 6 Sided 10mm wCenter USB
++ E5Plus - Front Skirt 6 Sided 10mm wSwitch
++ E5Plus - Front Skirt 6 Sided 10mm wTempController
++ E5Plus - Front Skirt 6 Sided 10mm wTempControlUSB Switch
++ E5Plus - Rear Skirt 6 Sided 10mm wIEC
++ E5Plus - Rear Skirt 6 Sided 10mm wStock IEC
++ E5Plus - Rear Skirt 6 Sided 10mm
++ E5Plus - Side Skirt 6 Sided 10mm  wRJ45 Bottom
++ E5Plus - Side Skirt 6 Sided 10mm  wRJ45 Top
++ E5Plus - Side Skirt 6 Sided 10mm wTool Holder 1
++ E5Plus - Side Skirt 6 Sided 10mm
+
 5/14/2023
 + Added E5P Single Control Box wFloor V2
 + Added E5Plus - Center Piece - Klipper Logo
