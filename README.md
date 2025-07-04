@@ -19,6 +19,8 @@ LCD Displays Currently Supported:
 
 For the most recent updates on my projects, join my group:
 * https://www.facebook.com/groups/3DPrinterModding/
+
+I have been migrating my projects to printables. It give me more options for organization and instructions. Join me there. @BDCC
 * https://www.printables.com/@BDCC
 
 If you would like to support my work, you can use the link below. All Tips go back into the projects to be able to support more hardware. PAYPAL Link:
